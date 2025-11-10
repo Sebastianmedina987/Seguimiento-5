@@ -54,7 +54,7 @@ public class Executable {
 
                 
                 
-           } while (!in.equals("8"));
+           } while (!in.equals("7"));
 
         scanner.close();
     }

@@ -1,7 +1,5 @@
 package model;
 
-import java.lang.reflect.Type;
-
 public class ExecutiveTransport extends ServiceDelivery implements Discountable {
 
     private VehicleType vehicleType;
